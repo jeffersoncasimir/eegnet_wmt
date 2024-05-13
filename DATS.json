@@ -77,7 +77,15 @@
     ],
     "isAbout": [
         {
-            "name": "adult"
+        	{
+      			"name": "Homo sapiens",
+     			 "identifier": {
+        			"identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        			"identifierSource": "NCBI Taxonomy Database"
+      		}
+    	},
+		{
+			"name": "adult"
         }
     ],
     "spatialCoverage": [
