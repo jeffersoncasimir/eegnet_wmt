@@ -1,0 +1,185 @@
+{
+    "title": "Face13",
+    "description": "This study aims to uncover the neural underpinnings of specific visual responses with Independent Component Analysis (ICA) to dissect electrocortical processes recorded with EEG during the presentation of face and house stimuli. Sample includes ten healthy adult volunteers, aged 22 to 37.",
+    "dates": [
+        {
+            "date": "2009-08-31 00:00:00",
+            "type": {
+                "@type": "Annotation",
+                "value": "start date"
+            }
+        },
+        {
+            "date": "2010-02-03 00:00:53",
+            "type": {
+                "@type": "Annotation",
+                "value": "end date"
+            }
+        }
+    ],
+    "creators": [
+        {
+            "name": "Brock University",
+            "abbreviation": "BRK"
+        },
+	{
+		"name": "James Desjardins",
+		"roles": [
+			{
+				"value": "Principal Investigator"
+			}
+		]
+	},
+    {
+		"name": "Tyler K. Collins",
+		"roles": [
+			{
+				"value": "Contributor"
+			}
+		]
+	},
+	{
+		"name": "Sara Stephenson",
+		"roles": [
+			{
+				"value": "Contributor"
+			}
+		]
+	}
+    ],
+    "types": [
+        {
+            "information": {
+                "value": "electroencephalography",
+                "valueIRI": "http://uri.interlex.org/base/ilx_0741211"
+            }
+        }
+    ],
+    "version": "1.0",
+    "privacy": "registered",
+    "distributions": [
+        {
+            "@type": "DatasetDistribution",
+            "formats": [
+                "EDF",
+                "JSON"
+            ],
+            "size" : 10.9,
+            "unit" : {
+                "value": "GB"
+            },
+            "access" : {
+                "landingPage" : "https://portal.cbrain.mcgill.ca/userfiles/4974881",
+				"authorizations": [
+					{
+						"value": "private"
+					}
+				]
+            }
+        }
+    ],
+    "isAbout": [
+        {
+            "name": "adult"
+        }
+    ],
+    "spatialCoverage": [
+        {
+            "name": "North America",
+            "description": ""
+        }
+    ],
+    "licenses": [
+        {
+            "@type": "License",
+            "name": "CC-BY",
+            "version": "4.0"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "faces,eeg,ica,oddball"
+        }
+    ],
+	"primaryPublications" : [
+	{
+            "items" : {
+                "$ref" : "https://jov.arvojournals.org/article.aspx?articleid=2121634"
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "Total number of sessions",
+            "values": [
+                {
+                    "value": "10"
+                }
+            ]
+        },
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": ""
+				}
+			]
+		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "Canadian"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "174"
+				}
+			]
+		},
+		{
+			"category": "subjects",
+			"values": [
+				{
+					"value": "10"
+				}
+			]
+		},
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "Brock University"
+                }
+            ]
+        },
+        {
+            "category": "origin_city",
+            "values": [
+                {
+                    "value": "St. Catharines"
+                }
+            ]
+        },
+        {
+            "category": "origin_province",
+            "values": [
+                {
+                    "value": "Ontario"
+                }
+            ]
+        },
+        {
+            "category": "origin_country",
+            "values": [
+                {
+                    "value": "Canada"
+                }
+            ]
+        }
+    ]
+}
