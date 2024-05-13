@@ -100,7 +100,9 @@
     ],
 	"primaryPublications" : [
 		{
-            "identifier" : "https://jov.arvojournals.org/article.aspx?articleid=2121634"
+            "identifier" : {
+				"identifier": "https://jov.arvojournals.org/article.aspx?articleid=2121634"
+			}
         }
     ],
     "extraProperties": [
