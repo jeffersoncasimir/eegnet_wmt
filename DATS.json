@@ -57,7 +57,6 @@
     "privacy": "registered",
     "distributions": [
         {
-            "@type": "DatasetDistribution",
             "formats": [
                 "EDF",
                 "JSON"
@@ -100,10 +99,8 @@
         }
     ],
 	"primaryPublications" : [
-	{
-            "identifier" : {
-                "$ref" : "https://jov.arvojournals.org/article.aspx?articleid=2121634"
-            }
+		{
+            "identifier" : "https://jov.arvojournals.org/article.aspx?articleid=2121634"
         }
     ],
     "extraProperties": [
