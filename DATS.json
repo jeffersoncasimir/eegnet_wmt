@@ -99,7 +99,16 @@
     ],
     "keywords": [
         {
-            "value": "faces,eeg,ica,oddball"
+            "value": "faces"
+		},
+		{
+			"value": "eeg"
+		},
+		{
+			"value": "ica"
+		},
+		{
+			"value": "oddball"
         }
     ],
 	"primaryPublications" : [
