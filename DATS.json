@@ -42,7 +42,7 @@
         {
             "formats": [
                 "EDF",
-                "JSON
+                "JSON"
             ],
             "size" : 3.9,
             "unit" : {
