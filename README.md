@@ -26,5 +26,5 @@ n/a
 https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1355565/full
 
 **Contact Person**\
-Philippe Albouy: philippe.albouy@psy.ulaval.ca
+Philippe Albouy: philippe.albouy@psy.ulaval.ca\
 Corentin Labelle: corentin.labelle.1@ulaval.ca
