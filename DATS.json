@@ -80,6 +80,23 @@
             "version": "4.0"
         }
     ],
+    "keywords": [
+        {
+        	"value": "eeg"
+	},
+	{
+		"value": "cognition"
+	},
+	{
+		"value": "memory"
+        },		
+	{
+		"value": "fronto-parietal network"
+        },		
+	{
+		"value": "theta oscillation"
+        },		
+    ],
 	"primaryPublications" : [
 		{
             "identifier" : {
