@@ -191,7 +191,15 @@
         		}
 			]
     	},
-        {
+		{
+			"category": "downloadOptions",
+			"values": [
+				{
+					"value": "offsite"
+				}
+			]
+		},
+		{
             "category": "origin_country",
             "values": [
                 {
