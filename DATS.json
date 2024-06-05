@@ -1,15 +1,15 @@
 {
-    "title": "Face13",
-    "description": "This study aims to uncover the neural underpinnings of specific visual responses with Independent Component Analysis (ICA) to dissect electrocortical processes recorded with EEG during the presentation of face and house stimuli. Sample includes ten healthy adult volunteers, aged 22 to 37.",
+    "title": "WorkingMemoryTraining",
+    "description": "A limited sample of 18 neurologically healthy participants took part in the training protocol with an auditory working memory task while being stimulated with either theta (5 Hz) rhTMS or sham TMS. Electroencephalography (EEG) was recorded before, throughout five training sessions and after the end of training to assess to effects of rhTMS on behavioral performance and on oscillatory entrainment of the dorsal auditory network.",
     "dates": [
         {
-            "date": "2009-08-31 00:00:00",
+            "date": "2019-10-31 00:00:00",
             "type": {
                 "value": "start date"
             }
         },
         {
-            "date": "2010-02-03 00:00:53",
+            "date": "2020-03-10 00:00:00",
             "type": {
                 "value": "end date"
             }
@@ -17,30 +17,13 @@
     ],
     "creators": [
         {
-            "name": "Brock University",
-            "abbreviation": "BRK"
-        },
+            "name": "McGill University"
+	},
 	{
-		"name": "James Desjardins",
+		"name": "Philippe Albouy",
 		"roles": [
 			{
 				"value": "Principal Investigator"
-			}
-		]
-	},
-    {
-		"name": "Tyler K. Collins",
-		"roles": [
-			{
-				"value": "Contributor"
-			}
-		]
-	},
-	{
-		"name": "Sara Stephenson",
-		"roles": [
-			{
-				"value": "Contributor"
 			}
 		]
 	}
@@ -61,15 +44,15 @@
                 "EDF",
                 "JSON"
             ],
-            "size" : 10.9,
+            "size" : 3.9,
             "unit" : {
                 "value": "GB"
             },
             "access" : {
-                "landingPage" : "https://portal.cbrain.mcgill.ca/userfiles/5126312",
+                "landingPage" : "https://portal.cbrain.mcgill.ca/userfiles/5155556",
 				"authorizations": [
 					{
-						"value": "private"
+						"value": "registered"
 					}
 				]
             }
@@ -99,22 +82,25 @@
     ],
     "keywords": [
         {
-            "value": "faces"
-		},
-		{
-			"value": "eeg"
-		},
-		{
-			"value": "ica"
-		},
-		{
-			"value": "oddball"
+        	"value": "eeg"
+	},
+	{
+		"value": "cognition"
+	},
+	{
+		"value": "memory"
+        },		
+	{
+		"value": "fronto-parietal network"
+        },		
+	{
+		"value": "theta oscillation"
         }
     ],
 	"primaryPublications" : [
 		{
             "identifier" : {
-				"identifier": "https://jov.arvojournals.org/article.aspx?articleid=2121634"
+				"identifier": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1355565/full"
 			}
         }
     ],
@@ -123,7 +109,7 @@
             "category": "Total number of sessions",
             "values": [
                 {
-                    "value": "10"
+                    "value": "3"
                 }
             ]
         },
@@ -147,7 +133,7 @@
 			"category": "files",
 			"values": [
 				{
-					"value": "174"
+					"value": "493"
 				}
 			]
 		},
@@ -155,7 +141,7 @@
 			"category": "subjects",
 			"values": [
 				{
-					"value": "10"
+					"value": "18"
 				}
 			]
 		},
@@ -163,7 +149,7 @@
             "category": "origin_institution",
             "values": [
                 {
-                    "value": "Brock University"
+                    "value": "McGill University"
                 }
             ]
         },
@@ -171,7 +157,7 @@
             "category": "origin_city",
             "values": [
                 {
-                    "value": "St. Catharines"
+                    "value": "Montreal"
                 }
             ]
         },
@@ -179,7 +165,7 @@
             "category": "origin_province",
             "values": [
                 {
-                    "value": "Ontario"
+                    "value": "Quebec"
                 }
             ]
         },
