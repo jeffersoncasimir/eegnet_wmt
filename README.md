@@ -1,6 +1,6 @@
-# Working Memory Training
+# Theta activity in the dorsal pathway predicts working memory
 **Project ID**\
-WMT
+TDW
 
 **Expected experimentation period**\
 Start date: 31/10/2019
