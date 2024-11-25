@@ -22,7 +22,10 @@ n/a
 1. Mk
 2. S128
 
-**ResearchPaper**\
+**Primary Publications**\
+Whittaker HT, Khayyat L, Fortier-Lavallée J, Laverdière M, Bélanger C, Zatorre RJ and Albouy P (2024) Information-based rhythmic transcranial magnetic stimulation to accelerate learning during auditory working memory training: a proof-of-concept study. Front. Neurosci. 18:1355565. doi: 10.3389/fnins.2024.1355565
+
+**Research Paper**\
 https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1355565/full
 
 **Contact Person**\
