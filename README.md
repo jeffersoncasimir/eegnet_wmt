@@ -29,7 +29,7 @@ Whittaker HT, Khayyat L, Fortier-Lavallée J, Laverdière M, Bélanger C, Zatorr
 https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1355565/full
 
 **Acknowledgements**\
-Canadian Institutes of Health Research, Natural Sciences and Engineering Research Council of Canada, The Healthy Brains, Healthy Lives (HBHL) initiative of McGill University
+The author(s) declare financial support was received for the research, authorship, and/or publication of this article. This work was supported by a CIHR Foundation grant to RJZ; by NSERC Discovery grants to PA and RJZ; and by a grant from the Healthy Brains for Healthy Lives initiative of McGill University under the Canada First Research Excellence Fund to RJZ. HTW is supported by CIHR via a Vanier Canada Graduate Scholarship. RJZ is a fellow of the Canadian Institute for Advanced Research and is funded via the Canada Research Chair Program and by FPA RD-2021-6 Scientific Grand Prize from the Fondation pour l’Audition (Paris). PA was supported by FRQS Junior 1 grant and is now supported by FRQS Junior 2 grant.
 
 **Contact Person**\
 Philippe Albouy: philippe.albouy@psy.ulaval.ca\
