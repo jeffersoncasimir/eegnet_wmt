@@ -15,3 +15,4 @@ In accordance with Brock University guidelines, age-related variables have been 
 
 This work was made possible by funding from the Canadian Foundation for Innovation (CFI) and the Natural Sciences and Engineering Council of Canada (NSERC) to SJS, the facilities of the Shared Hierarchical Academic Research Computing Network Journal of Vision (2013) 13(5):22, 1–18 Desjardins & Segalowitz 16 Downloaded from jov.arvojournals.org on 12/04/2024 (SHARCNET: www.sharcnet.ca) and Compute/Calcul Canada, and Ruben Gur for the original face stimuli.
 
+Data dissemination and standardization supported by [EEGNet.Loris.ca](https://eegnet.loris.ca)
